@@ -1,4 +1,3 @@
-
 import os
 import requests
 from dotenv import load_dotenv
@@ -29,7 +28,3 @@ for moeda in moedas:
     valor = conversoes.get(moeda)   # Obtém o valor da moeda específica para achar o valor da cotação
     if valor:
         print(f"1 USD = {valor:.2f} {moeda}")
-
-
-
-
