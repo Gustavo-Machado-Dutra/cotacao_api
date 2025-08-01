@@ -19,6 +19,10 @@ O script:
 - Python 3.10+
 - Uma chave gratuita da [Exchangerate API](https://www.exchangerate-api.com/)
 
+Use o seguinte comando para instalar o repositório:
+
+```git clone https://github.com/Gustavo-Machado-Dutra/cotacao_api.git```
+
 Instale os pacotes necessários com:
 
 ```pip install -r requirements.txt ```
@@ -31,3 +35,5 @@ Instale os pacotes necessários com:
 API_KEY = sua_chave_aqui
 
 Substitua sua_chave_aqui pela sua chave da API.
+
+
